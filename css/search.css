@@ -1,0 +1,13 @@
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1em;
+}
+#search-result {
+  list-style: none;
+  margin-top: 1em;
+}
+#search-result li {
+  padding: 6px 0;
+}
+
